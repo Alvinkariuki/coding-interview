@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Wanjiru",
+    "balance": 599.5
+  },
+  {
+    "name": "Juma",
+    "balance": 4670.51
+  },
+  {
+    "name": "Linda",
+    "balance": 1292
+  }
+]
